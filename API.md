@@ -1,5 +1,4 @@
 # Application Programming Interface Description
----
 
 [Basics](#Basics)  
 [Responses](#Responses)  
