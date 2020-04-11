@@ -8,7 +8,7 @@
 
 [`/api/status`](#apistatus)  
 [`/api/dispense`](#apidispense)  
-[`/api/openlid`]($apiopenlid)
+[`/api/openlid`](#apiopenlid)
 
 ---
 
